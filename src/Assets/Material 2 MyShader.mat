@@ -77,6 +77,18 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2ebb822995904d298f8a62a6d6f4045e_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 5e6a3ae4949ade242978c70871856805, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_30666e1358eb4fa6aa2c35a2e55fa2b0_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 3f35cab2e11271c47b4d1e137f8d982f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f05638b86cb840d99bb8f821fdf206c3_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 4f306d866396c6f46ac5130360390aef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -100,6 +112,7 @@ Material:
     - _AlphaToMask: 0
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
+    - _Border: 0.6
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -114,6 +127,9 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
+    - _Multiply: 0.2
+    - _Multiply0: 2.5
+    - _Multiply1: 0.5
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
@@ -132,6 +148,10 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Frequency: {r: 8, g: 8, b: 0, a: 0}
+    - _MonoColor: {r: 0, g: 0.013917919, b: 1, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _defaultColor: {r: 0, g: 0, b: 0, a: 1}
+    - _position: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
